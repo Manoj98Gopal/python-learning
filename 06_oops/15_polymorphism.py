@@ -18,3 +18,19 @@ class Cow:
     
     def speak(self):
         print("Cow moos")
+        
+        
+
+def speak(object):
+    object.speak()
+    
+    
+    
+d = Dog()
+c = Cat()
+cow = Cow()
+
+
+speak(d)
+speak(c)
+speak(cow)
