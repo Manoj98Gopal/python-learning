@@ -4,7 +4,6 @@
 # if user select n print the thank you message and terminate the program
 # if user select other then y and n  print the Invalid choice
 
-
 import random
 
 
